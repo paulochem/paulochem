@@ -1,35 +1,33 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&color=00FF00&size=30&center=true&vCenter=true&width=800&height=100&lines=C%3A%5C%3E+boot+paulo_cesar.exe;Loading+modules...+%5BOK%5D;Welcome+to+Paulo's+Terminal;Technological+Chemistry+%7C+Python+%7C+IoT" alt="Typing Animation">
+  <h1 align="center" style="color: #58A6FF;">Paulo Cesar Nascimento dos Santos</h1>
+  <h3 align="center"><i>Technological Chemistry | Python | Data Analysis</i></h3>
+  <p align="center" style="color: #8B9EB7;">
+    <i>"A explorar a interseção entre a química tecnológica, a programação e a análise de dados."</i>
+  </p>
 </div>
 
-```console
-Paulo Cesar Nascimento dos Santos
+<hr style="border: 1px solid #152336;" />
 
-paulo@ufrj:~$ cat current_status.txt
-> Graduando em Química Tecnológica @ UFRJ
-> Foco na interseção entre Química, Hardware e Programação (Python)
+### 
+- **Academia:** A concluir o bacharelato em Química Tecnológica na **UFRJ**, complementado por formação técnica em Redes de Computadores (**FAETEC EaD**).
+-  **Investigação & Análise:** Aplicação de programação (Python) e ferramentas de bioinformática (Primer-BLAST, FASTA) para resolução de problemas químicos e processamento de dados.
+-  **Extensão & Voluntariado:** Extensionista no Museu da Química Prof. Athos da Silveira Ramos e voluntário no projeto social Sangue da UFRJ.
 
-paulo@ufrj:~$ ls -l skills/
-drwxr-xr-x 2 paulo admin 4096 python_development/
-drwxr-xr-x 2 paulo admin 4096 bioinformatics_tools/ (Primer-BLAST, FASTA)
-drwxr-xr-x 2 paulo admin 4096 iot_and_sensors/
-drwxr-xr-x 2 paulo admin 4096 intellectual_property/
+<br>
 
-paulo@ufrj:~$ cat recent_projects.log
-[SYS_LOG] Carregando registros de hardware e pesquisa...
+<!-- Emblemas personalizados com a paleta Azul Escuro -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-08101E?style=for-the-badge&logo=python&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/Bioinformatics-08101E?style=for-the-badge&logo=dna&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/Machine_Learning-08101E?style=for-the-badge&logo=scikitlearn&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/Data_Science-08101E?style=for-the-badge&logo=pandas&logoColor=58A6FF" />
+</div>
 
-* Hardware/IoT:
-  - Desenvolvimento de sensor portátil para análise de viscosidade de fluidos não-newtonianos integrando sensores de rotação e Machine Learning.
-  - Design de detector de fissuras em vidrarias de laboratório utilizando ultrassom, vibração e LEDs.
+<br>
 
-* Sustentabilidade & Inovação:
-  - Projeto da Torre de Custódia Ambiental (Sensoriamento + Gamificação/Blockchain).
-  - Colaborador no Labic Amazonas (Cultura digital e ativismo socioambiental).
-
-* Extensão & Voluntariado:
-  - Extensionista no Museu da Química Professor Athos da Silveira Ramos.
-  - Voluntário de captação no projeto social Sangue da UFRJ.
-
-paulo@ufrj:~$ ./execute_github_stats.sh
-Fetching data from GitHub API... [DONE]
-Rendering CRT interface... [DONE]
+### Painéis de Impacto e Sinais de Contribuição
+<div align="center">
+  <!-- Cartões configurados com as cores exatas do tema: Fundo 08101E, Títulos 58A6FF, Texto 8B9EB7, Ícones 00E5FF -->
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&bg_color=08101E&title_color=58A6FF&text_color=8B9EB7&icon_color=00E5FF&border_color=152336&hide_border=false&show_icons=true" alt="Estatísticas do GitHub" width="48%">
+  
+  <img src="
