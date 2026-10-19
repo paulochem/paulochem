@@ -15,7 +15,6 @@
 
 <br>
 
-### Arsenal Tecnológico
 <!-- Emblemas personalizados com a paleta Azul Escuro -->
 <div align="center">
   <img src="https://img.shields.io/badge/Python-08101E?style=for-the-badge&logo=python&logoColor=58A6FF" />
