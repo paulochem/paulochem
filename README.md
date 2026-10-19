@@ -11,4 +11,4 @@ Graduando em Química Tecnológica (Bacharelado) pela **UFRJ** e Técnico em Red
 
 ### GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulochem&layout=compact) ![paulochem GitHub stats](https://github-readme-stats.vercel.app/api?username=paulochem&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulochem&layout=compact&theme=retrosavant) ![paulochem GitHub stats](https://github-readme-stats.vercel.app/api?username=paulochem&show_icons=true&theme=retrosavant)
